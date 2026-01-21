@@ -69,4 +69,4 @@ We fine-tune **DistilBERT**, a lightweight transformer model, to perform multi-c
 ## 🔮 Prediction Tool
 The project includes a simple interactive function that allows users to input any URL and receive a predicted class in real time.
 
-Example:
+
